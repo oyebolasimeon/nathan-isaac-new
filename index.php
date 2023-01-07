@@ -59,8 +59,8 @@ Author, Intense Business Analyst, Developer, Strategist, Coach, Conference Speak
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Why Nathan Isaac</h5>
-                <h1 class="mb-0">Grow Your Business Exponentially</h1>
+                <h5 class="fw-bold text-primary text-uppercase">Core Values</h5>
+                <h1 class="mb-0">My core values are wrapped around my desire to HELP</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4">
@@ -69,15 +69,15 @@ Author, Intense Business Analyst, Developer, Strategist, Coach, Conference Speak
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-cubes text-white"></i>
                             </div>
-                            <h4>Best Realtor</h4>
-                            <p class="mb-0">I have worked and consulted for top real estate organization in Abia and Lagos State Respectively.</p>
+                            <h4>Humanity</h4>
+                            <p class="mb-0">I believe that compassion, mercy, empathy, kindness, patience and love altogether improve the quality of the life we live, the work we do and the services we render.</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-award text-white"></i>
                             </div>
-                            <h4>Award Speaker</h4>
-                            <p class="mb-0">Everyone can speak but not everyone can pass the message across. It is not all about motivation or random thrills but I speaking and pouring out words out of the depth of understanding </p>
+                            <h4>Excellence</h4>
+                            <p class="mb-0">I believe in making conscious adjustments to achieve consistent peak performance. We never or will not always have the perfect conditions but we must make a commitment to make necessary adjustments, making the very best of every opportunity and resources for optimum results. I believe that excellence boils down to optimal utilization of available resources, and that this is how to live the best version of our lives and get the most admirable jobs done. </p>
                         </div>
                     </div>
                 </div>
@@ -92,15 +92,20 @@ Author, Intense Business Analyst, Developer, Strategist, Coach, Conference Speak
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-users-cog text-white"></i>
                             </div>
-                            <h4>Professional Business Consultant</h4>
-                            <p class="mb-0">Businesses today fails because business owners failed to learn the failure of successful business, many blind themselves to the reality of failure and encourage only the glimpse of what successful business owner say on the podium. I have made many realize why their business remains stagnant, why their success is a matter of neccessity but not a result of unhealthy competitions.</p>
+                            <h4>Leadership</h4>
+                            <p class="mb-0">I believe that one way to be significantly relevant to your world is live a life, build a business, a system or lead a change that can at least inspire someone.</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-phone-alt text-white"></i>
                             </div>
-                            <h4>Business Counsellor and Growth Strategist</h4>
-                            <p class="mb-0">Train up a child the way he should go also applies to businesses most especially SMEs and Startups. I stand in as a business counsellor and growth strategist with reasonable KPIs that will yield success in your establishment.</p>
+                            <h4>Passion</h4>
+                            <p class="mb-0">I believe that a passionless life is one that is only breathing.
+<br>A passionless work is almost a complete waste of our time and other resources
+<br>A passionless business or endeavor will never make a difference
+<br>A passionless speech is a sedating pill
+<br>A passionless leadership is an unfortunate situation<br>
+Passion is the power supply that makes the difference in anything we do and I believe that passion is a non negotiable requirement for outstanding results.</p>
                         </div>
                     </div>
                 </div>
