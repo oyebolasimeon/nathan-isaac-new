@@ -60,7 +60,7 @@ Author, Intense Business Analyst, Developer, Strategist, Coach, Conference Speak
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Why Nathan Isaac</h5>
-                <h1 class="mb-0">We Are Here to Grow Your Business Exponentially</h1>
+                <h1 class="mb-0">Grow Your Business Exponentially</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4">
