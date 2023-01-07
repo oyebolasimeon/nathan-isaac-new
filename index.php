@@ -421,7 +421,7 @@ Passion is the power supply that makes the difference in anything we do and I be
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p> -->
-                            <a class="text-uppercase" href="business-blogs.html">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="./business-blogs.php">Read More <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -438,7 +438,7 @@ Passion is the power supply that makes the difference in anything we do and I be
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p> -->
-                            <a class="text-uppercase" href="finance-blogs.html">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="./finance-blogs.php">Read More <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -455,7 +455,7 @@ Passion is the power supply that makes the difference in anything we do and I be
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p> -->
-                            <a class="text-uppercase" href="faith-blogs.html">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="./faith-blogs.php">Read More <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -472,7 +472,7 @@ Passion is the power supply that makes the difference in anything we do and I be
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p> -->
-                            <a class="text-uppercase" href="self-care-blogs.html">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="./self-care-blogs.php">Read More <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
