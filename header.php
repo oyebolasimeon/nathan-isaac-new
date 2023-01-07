@@ -66,7 +66,7 @@
     <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.html" class="navbar-brand p-0">
+            <a href="index.php" class="navbar-brand p-0">
                 <h1 class="m-0 d-flex"><img src="./img/logo.png" style="width: 50px; margin-right:10px; height: 50px;" alt="" srcset=""> Nathan Isaac</h1>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -74,7 +74,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
+                    <a href="index.php" class="nav-item nav-link active">Home</a>
                     <!-- <a href="about.html" class="nav-item nav-link">About</a> -->
                     <!-- About DROPDOWN -->
                     <div class="nav-item dropdown">
@@ -83,8 +83,8 @@
                             <a href="profile.html" class="dropdown-item">Profile</a>
                             <a href="detail.html" class="dropdown-item">Mission</a>
                             <a href="detail.html" class="dropdown-item">Vision</a>
-                            <a href="core-values.html" class="dropdown-item">Core Values</a>
-                            <a href="gallery.html" class="dropdown-item">Gallery</a>
+                            <a href="core-values.php" class="dropdown-item">Core Values</a>
+                            <a href="gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
                     <a href="service.html" class="nav-item nav-link">Services</a>
@@ -122,7 +122,7 @@
                             <a href="quote.html" class="dropdown-item">Free Quote</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <!-- <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton> -->
                 <!-- <a href="https://wa.link/mmnqjl" class="btn btn-primary py-2 px-4 ms-3">Coaching Call</a> -->

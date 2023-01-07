@@ -26,7 +26,7 @@
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-geo-alt text-primary me-2"></i>
-                                <p class="mb-0">Lagos, Nigeria</p>
+                                <p class="mb-0">Adetokunbo Ademola Street, Victoria Island, Lagos, Nigeria</p>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
