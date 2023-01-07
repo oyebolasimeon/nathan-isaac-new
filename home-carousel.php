@@ -5,7 +5,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Africa's foremost Business Growth Strategist</h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Book A Consultation</a>
+                            <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Book A Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -14,7 +14,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Business Consultant</h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Book A Consultation</a>
+                            <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Book A Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -23,7 +23,7 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Author </h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Resources</a>
+                            <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Resources</a>
                         </div>
                     </div>
                 </div>
@@ -33,6 +33,15 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Keynote Speaker </h1>
                             <a href="mailto:info@nathanisaac.org" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img style="width:100%; height: 90vh;"src="assets/img-2.jpg" alt="Image">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="p-3" style="max-width: 900px;">
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Real Estate Entrepreneur </h1>
+                            <a href="http://portal.billionairerealtors.com/4468023" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Access Free Consultation</a>
                         </div>
                     </div>
                 </div>
