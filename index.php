@@ -30,7 +30,7 @@
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
-                        <h5 class="fw-bold text-primary text-uppercase">About Us</h5>
+                        <h5 class="fw-bold text-primary text-uppercase">About</h5>
                         <h1 class="mb-0">Business & Management Consultant | Real Estate Entrepreneur</h1>
                     </div>
                     <p class="mb-4">
