@@ -4,9 +4,8 @@
                     <img style="width:100%; height: 90vh;" src="assets/img-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Business & Management Counsellor</h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Access Masterclass</a>
-                            <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Africa's foremost Business Growth Strategist</h1>
+                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Book A Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -14,9 +13,8 @@
                     <img style="width:100%; height: 90vh;" src="assets/img-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Intense Business Analyst</h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Business Update</a>
-                            <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Business Consultant</h1>
+                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Book A Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -24,9 +22,8 @@
                     <img style="width:100%; height: 90vh;"src="assets/img-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Real Estate Entrepreneur </h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Become a Real Estate Broker</a>
-                            <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Author </h1>
+                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Resources</a>
                         </div>
                     </div>
                 </div>
@@ -34,9 +31,8 @@
                     <img style="width:100%; height: 90vh;"src="assets/img-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Conference Speaker </h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Book Me</a>
-                            <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Keynote Speaker </h1>
+                            <a href="mailto:info@nathanisaac.org" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact</a>
                         </div>
                     </div>
                 </div>
