@@ -92,10 +92,10 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                         <div class="dropdown-menu m-0">
-                            <a href="blog.html" class="dropdown-item">Business</a>
-                            <a href="blog.html" class="dropdown-item">Finance</a>
-                            <a href="blog.html" class="dropdown-item">Self Help</a>
-                            <a href="blog.html" class="dropdown-item">Faith</a>
+                            <a href="./business-blogs.php" class="dropdown-item">Business</a>
+                            <a href="./finance-blogs.php" class="dropdown-item">Finance</a>
+                            <a href="./self-care-blogs.php" class="dropdown-item">Self Help</a>
+                            <a href="./faith-blogs.php" class="dropdown-item">Faith</a>
                             <!-- <a href="detail.html" class="dropdown-item">Blog Detail</a> -->
                         </div>
                     </div>
@@ -104,22 +104,22 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Resources</a>
                         <div class="dropdown-menu m-0">
-                            <a href="blog.html" class="dropdown-item">Books</a>
-                            <a href="blog.html" class="dropdown-item">Podcasts</a>
-                            <a href="blog.html" class="dropdown-item">Trainings</a>
-                            <a href="blog.html" class="dropdown-item">Seminars</a>
-                            <a href="blog.html" class="dropdown-item">Conferences</a>
+                            <a href="#" class="dropdown-item">Books</a>
+                            <a href="#" class="dropdown-item">Podcasts</a>
+                            <a href="#" class="dropdown-item">Trainings</a>
+                            <a href="#" class="dropdown-item">Seminars</a>
+                            <a href="#" class="dropdown-item">Conferences</a>
                             <!-- <a href="detail.html" class="dropdown-item">Blog Detail</a> -->
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu m-0">
-                            <a href="price.html" class="dropdown-item">Testimonials</a>
-                            <a href="feature.html" class="dropdown-item">Real Estate</a>
-                            <a href="team.html" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                            <a href="quote.html" class="dropdown-item">Free Quote</a>
+                            <a href="./client-talk.php" class="dropdown-item">Testimonials</a>
+                            <a href="#" class="dropdown-item">Real Estate</a>
+                            <!-- <a href="team.html" class="dropdown-item">Team Members</a>
+                            <a href="testimonial.html" class="dropdown-item">Testimonial</a> -->
+                            <a href="#" class="dropdown-item">Free Quote</a>
                         </div>
                     </div>
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
