@@ -10,7 +10,8 @@
                         <img class="img-fluid rounded" src="testimonials/jacob.jpeg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Emmanuel Jacob</h4>
-                            <small class="text-uppercase">International Speaker & Consultant</small>
+                            <small class="text-uppercase">International Speaker & Consultant</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Switzerland</small>
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
@@ -65,6 +66,7 @@ I admire your consistency and your ability to dissect complex issues into workab
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Femi Ojo</h4>
                             <small class="text-uppercase">Real Estate Manager</small>
+
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
