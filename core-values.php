@@ -57,7 +57,7 @@
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-phone-alt text-white"></i>
+                                <i class="fa fa-star text-white"></i>
                             </div>
                             <h4>Passion</h4>
                             <p class="mb-0">I believe that a passionless life is one that is only breathing.
