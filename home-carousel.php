@@ -31,7 +31,7 @@
                     <img style="width:100%; height: 90vh;"src="assets/5a.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Keynote Speaker </h1>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Conference Speaker </h1>
                             <a href="mailto:info@nathanisaac.org" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Contact</a>
                         </div>
                     </div>
