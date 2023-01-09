@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img style="width:100%; height: 90vh;"src="assets/5a" alt="Image">
+                    <img style="width:100%; height: 90vh;"src="assets/5a.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Keynote Speaker </h1>
