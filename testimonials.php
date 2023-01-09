@@ -23,7 +23,8 @@
                         <img class="img-fluid rounded" src="testimonials/lizzy.jpeg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Elizabeth Izah</h4>
-                            <small class="text-uppercase">Realtor</small>
+                            <small class="text-uppercase">Realtor</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Lekki, Lagos, Nigeria</small>
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
@@ -36,7 +37,8 @@ Your ability to make things happen, Your empathy, your ability to listen to unde
                         <img class="img-fluid rounded" src="testimonials/eben.jpeg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Ebenezer Chibundu</h4>
-                            <small class="text-uppercase">Brand Analyst & Business Devoper</small>
+                            <small class="text-uppercase">Brand Analyst & Business Devoper</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Abuja, Nigeria</small>
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
@@ -50,7 +52,8 @@ He helped me set up my first career path in branding; he brought me up to speed 
                         <img class="img-fluid rounded" src="testimonials/ebuka.jpeg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Ebuka Daniel</h4>
-                            <small class="text-uppercase">Realtor</small>
+                            <small class="text-uppercase">Realtor</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Lekki, Lagos, Nigeria</small>
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
@@ -65,7 +68,8 @@ I admire your consistency and your ability to dissect complex issues into workab
                         <img class="img-fluid rounded" src="testimonials/femi.jpeg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Femi Ojo</h4>
-                            <small class="text-uppercase">Real Estate Manager</small>
+                            <small class="text-uppercase">Real Estate Manager</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Lekki, Lagos, Nigeria</small>
 
                         </div>
                     </div>
@@ -79,7 +83,8 @@ I admire your consistency and your ability to dissect complex issues into workab
                         <img class="img-fluid rounded" src="testimonials/augusta.jpeg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Augusta Aghedo</h4>
-                            <small class="text-uppercase">Realtor</small>
+                            <small class="text-uppercase">Realtor</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Lekki, Lagos, Nigeria</small>
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
@@ -92,7 +97,8 @@ I admire your consistency and your ability to dissect complex issues into workab
                         <img class="img-fluid rounded" src="testimonials/amobi.jpeg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Amobi Obinna</h4>
-                            <small class="text-uppercase">Realtor</small>
+                            <small class="text-uppercase">Realtor</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Lekki, Lagos, Nigeria</small>
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
