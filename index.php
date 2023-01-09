@@ -67,7 +67,7 @@ Author, Intense Business Analyst, Developer, Strategist, Coach, Conference Speak
                     <div class="row g-5">
                         <div class="col-12 wow zoomIn" data-wow-delay="0.2s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-cubes text-white"></i>
+                                <i class="fa fa-users text-white"></i>
                             </div>
                             <h4>Humanity</h4>
                             <p class="mb-0">I believe that compassion, mercy, empathy, kindness, patience and love altogether improve the quality of the life we live, the work we do and the services we render.</p>
@@ -97,7 +97,7 @@ Author, Intense Business Analyst, Developer, Strategist, Coach, Conference Speak
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-phone-alt text-white"></i>
+                                <i class="fa fa-star text-white"></i>
                             </div>
                             <h4>Passion</h4>
                             <p class="mb-0">I believe that a passionless life is one that is only breathing.

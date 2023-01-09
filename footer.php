@@ -42,7 +42,9 @@
                                 <a class="btn btn-primary btn-square me-2" href="https://www.twitter.com/meetNathanIsaac"><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="https://www.facebook.com/meetnathanisaac"><i class="fab fa-facebook-f fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="https://www.linkedin.com/in/meetnathanisaac"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                                <a class="btn btn-primary btn-square" href="https://www.instagram.com/meetnathanisaac"><i class="fab fa-instagram fw-normal"></i></a>
+                                <a class="btn btn-primary btn-square me-2" href="https://www.instagram.com/meetnathanisaac"><i class="fab fa-instagram fw-normal"></i></a>
+                                <a class="btn btn-primary btn-square me-2" href="https://www.tiktok.com/meetnathanisaac"><i class="fas fa-tiktok fw-normal"></i></a>
+                                <a class="btn btn-primary btn-square" href="https://www.youtube.com/meetnathanisaac"><i class="fab fa-youtube fw-normal"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
