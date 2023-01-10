@@ -106,6 +106,35 @@ I admire your consistency and your ability to dissect complex issues into workab
                     </div>
                 </div>
 
+                <div class="testimonial-item bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="testimonials/frank.jpeg" style="width: 60px; height: 60px;" >
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">Frank Nnamdi</h4>
+                            <small class="text-uppercase">Business</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Lekki, Lagos, Nigeria</small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    Subscribing to your training and coaching sessions have greatly improved my customer relationship skills. It has also helped me expand on innovative business ideas and management solutions.
+I greatly appreciate the practical solutions and real world applications presented in your trainings and how they can be used in everyday situations.
+                    </div>
+                </div>
+
+                <div class="testimonial-item bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="testimonials/henry.png" style="width: 60px; height: 60px;" >
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">Henry Nwoke</h4>
+                            <small class="text-uppercase">Techpreneur</small><br>
+                            <small class="text-capitalize"><i style="color: #FFC448;" class="fa fa-map-marker"></i> Abuja, Nigeria</small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    I read virtually all of your blogs, both on relationships, marriage, spirituality, real estate investment and other business related topics and they have really impacted my business and other facets of my life. You business ideologies and solutions are very insightful, straight to the point and simple to understand.
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
