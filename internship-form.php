@@ -17,11 +17,11 @@
                     <p class="mb-4">
                     Internship application for the year 2023 is now open!
 
-The need to begin to pass on the torch early enough is now very glaring to me.
+The need to begin to pass on the torch early enough is now very glaring to me. <br><br>
 
 The need to consciously train and extend a helping hand of experience, skill, wisdom, professionalism, Intentional Growth and Strategy to a younger generation of tech enthusiasts and creatives is eminent.
 
-Apply if you are interested and within the 18 -25 age bracket. Send your application and C.V to info@nathanisaac.org
+Apply if you are interested and within the 18 -25 age bracket. <br><br> Send your application and C.V to <a href="mailto:info@nathanisaac.org">info@nathanisaac.org</a> or submit using the form on this page
 
 Application closes on the 31st of January 2023.
                     </p>
