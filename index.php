@@ -329,7 +329,7 @@ Passion is the power supply that makes the difference in anything we do and I be
 
 
     <!-- Testimonial Start -->
-    <?php require "testimonials.php" ?>
+    <?php require "home-testimonials.php" ?>
     <!-- Testimonial End -->
 
 
