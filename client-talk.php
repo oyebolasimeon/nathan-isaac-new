@@ -13,5 +13,7 @@
         </div>
     </div>
 
+    <?php require "testimonials.php" ?>
+
 
 <?php require "footer.php" ?>
