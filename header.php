@@ -106,7 +106,7 @@
                         <div class="dropdown-menu m-0">
                             <a href="#" class="dropdown-item">Books</a>
                             <a href="#" class="dropdown-item">Podcasts</a>
-                            <a href="#" class="dropdown-item">Trainings</a>
+                            <a href="./training.php" class="dropdown-item">Trainings</a>
                             <a href="#" class="dropdown-item">Seminars</a>
                             <a href="#" class="dropdown-item">Conferences</a>
                             <!-- <a href="detail.html" class="dropdown-item">Blog Detail</a> -->
