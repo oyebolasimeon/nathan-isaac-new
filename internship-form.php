@@ -25,6 +25,9 @@ Apply if you are interested and within the 18 -25 age bracket. <br><br> Send you
 
 Application closes on the 31st of January 2023.
                     </p>
+                    <p class="mb-4">
+                        Upload your CV as a single page image file
+                    </p>
                     <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
                         <!-- <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                             <i class="fa fa-phone-alt text-white"></i>
