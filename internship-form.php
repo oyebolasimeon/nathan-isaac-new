@@ -48,6 +48,13 @@ Application closes on the 31st of January 2023.
                                 <div class="col-12">
                                     <input type="file" class="form-control bg-light border-0" required name="applicant_file" placeholder="Upload Cv" style="height: 55px;">
                                 </div>
+                                <div class="col-12">
+                                <input
+    type="hidden"
+    name="_redirect"
+    value="https://nathanisaac.org/internship.php"
+  />
+                                </div>
                                 <!-- <div class="col-12">
                                     <select class="form-select bg-light border-0" style="height: 55px;">
                                         <option selected>Select A Service</option>
