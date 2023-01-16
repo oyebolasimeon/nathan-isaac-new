@@ -40,13 +40,13 @@ Application closes on the 31st of January 2023.
                         <form action="https://submit-form.com/CWeSelsY" method="POST">
                             <div class="row g-3">
                                 <div class="col-xl-12">
-                                    <input type="text" class="form-control bg-light border-0" placeholder="Your Name" style="height: 55px;">
+                                    <input type="text" class="form-control bg-light border-0" required name="applicant_name" placeholder="Your Name" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <input type="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
+                                    <input type="email" class="form-control bg-light border-0" required name="applicant_email" placeholder="Your Email" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <input type="file" class="form-control bg-light border-0" placeholder="Upload Cv" style="height: 55px;">
+                                    <input type="file" class="form-control bg-light border-0" required name="applicant_file" placeholder="Upload Cv" style="height: 55px;">
                                 </div>
                                 <!-- <div class="col-12">
                                     <select class="form-select bg-light border-0" style="height: 55px;">
