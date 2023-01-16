@@ -49,7 +49,7 @@ Application closes on the 31st of January 2023.
                                     <input type="email" class="form-control bg-light border-0" required name="applicant_email" placeholder="Your Email" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <input type="file" class="form-control bg-light border-0"
+                                    <input type="hidden" class="form-control bg-light border-0"
                                     role="uploadcare-uploader" 
                                     id="cv"
                                     data-public-key="934c8c23f5016aeef7af"
