@@ -116,7 +116,7 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu m-0">
                             <a href="./client-talk.php" class="dropdown-item">Testimonials</a>
-                            <a href="#" class="dropdown-item">Real Estate</a>
+                            <a href="./internship.php" class="dropdown-item">Internship</a>
                             <!-- <a href="team.html" class="dropdown-item">Team Members</a>
                             <a href="testimonial.html" class="dropdown-item">Testimonial</a> -->
                             <a href="#" class="dropdown-item">Free Quote</a>
