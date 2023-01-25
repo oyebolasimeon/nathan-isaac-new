@@ -6,6 +6,7 @@
                     <img src="partners/2.jpg" alt="">
                     <img src="partners/micromentor.png" alt="">
                     <img src="partners/4.png" alt="">
+                    <img src="partners/abia-logo.jpeg" alt="">
                     <img src="partners/5.svg" alt="">
                     <img src="partners/6.png" alt="">
                     <img src="partners/7.png" alt="" srcset="">

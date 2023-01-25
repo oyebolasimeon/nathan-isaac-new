@@ -428,7 +428,7 @@ Passion is the power supply that makes the difference in anything we do and I be
                 <div class="col-lg-3 wow slideInUp" data-wow-delay="0.6s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/blog-2.jpg" alt="">
+                            <img class="img-fluid" src="blog/real-estate/estate-blog.jpeg" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="finance-blogs.html">Finance Blog</a>
                         </div>
                         <div class="p-4">
@@ -462,7 +462,7 @@ Passion is the power supply that makes the difference in anything we do and I be
                 <div class="col-lg-3 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/blog-3.jpg" alt="">
+                            <img class="img-fluid" src="./blog/self/bg.png" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="self-care-blogs.html">Self Help Blogs</a>
                         </div>
                         <div class="p-4">
