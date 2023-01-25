@@ -35,12 +35,12 @@
                                 <small><i class="far fa-calendar-alt text-primary me-2"></i>23 Jan, 2023</small>
                             </div>
                             <h4 class="mb-3">My Beach Body</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <p>What is money without a sound mind and a tranquil spirit? What ...</p>
                             <a class="text-uppercase" href="business-blogs.html">Read More <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 wow slideInUp" data-wow-delay="0.6s">
+                <!-- <div class="col-lg-3 wow slideInUp" data-wow-delay="0.6s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-2.jpg" alt="">
@@ -90,7 +90,7 @@
                             <a class="text-uppercase" href="self-care-blogs.html">Read More <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
