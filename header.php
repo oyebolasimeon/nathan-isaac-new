@@ -83,8 +83,8 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About</a>
                         <div class="dropdown-menu m-0">
                             <a href="profile.html" class="dropdown-item">Profile</a>
-                            <a href="detail.html" class="dropdown-item">Mission</a>
-                            <a href="detail.html" class="dropdown-item">Vision</a>
+                            <a href="#" class="dropdown-item">Mission</a>
+                            <a href="#" class="dropdown-item">Vision</a>
                             <a href="core-values.php" class="dropdown-item">Core Values</a>
                             <a href="gallery.php" class="dropdown-item">Gallery</a>
                         </div>
@@ -98,7 +98,7 @@
                             <a href="./finance-blogs.php" class="dropdown-item">Finance</a>
                             <a href="./self-care-blogs.php" class="dropdown-item">Self Help</a>
                             <a href="./faith-blogs.php" class="dropdown-item">Faith</a>
-                            <!-- <a href="detail.html" class="dropdown-item">Blog Detail</a> -->
+                            <!-- <a href="#" class="dropdown-item">Blog Detail</a> -->
                         </div>
                     </div>
 
@@ -111,7 +111,7 @@
                             <a href="./training.php" class="dropdown-item">Trainings</a>
                             <a href="#" class="dropdown-item">Seminars</a>
                             <a href="#" class="dropdown-item">Conferences</a>
-                            <!-- <a href="detail.html" class="dropdown-item">Blog Detail</a> -->
+                            <!-- <a href="#" class="dropdown-item">Blog Detail</a> -->
                         </div>
                     </div>
                     <div class="nav-item dropdown">
