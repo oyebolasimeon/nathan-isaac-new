@@ -82,7 +82,7 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About</a>
                         <div class="dropdown-menu m-0">
-                            <a href="profile.html" class="dropdown-item">Profile</a>
+                            <a href="about.php" class="dropdown-item">Profile</a>
                             <a href="#" class="dropdown-item">Mission</a>
                             <a href="#" class="dropdown-item">Vision</a>
                             <a href="core-values.php" class="dropdown-item">Core Values</a>
