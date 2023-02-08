@@ -109,6 +109,37 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <script>
+    const winPaystackPop = window.PaystackPop;
+    const metadata = {
+      purpose: "Nathan Isaac Payment"
+    };
+    const amount = parseInt(this.FundAccount.getRawValue().amount) *100; 
+
+    if(winPaystackPop){
+      const handler = winPaystackPop.setup({
+        key: this.payStackKey,
+        email: `${localStorage.getItem("email")}`,
+        amount,
+        metadata: {...metadata},
+        currency: 'NGN',
+        ref: `THR${Math.ceil(Math.random() * 10e10)}`,
+        // callback: (response) => this.ngZone.run(() => {
+        //     this.confirmPayment(response)
+        // })
+      });
+      handler.openIframe()
+    } else{
+      Swal.fire({
+        position: 'top-end',
+        icon: 'error',
+        title: 'An error occured, reload page and try again',
+        showConfirmButton: false,
+        timer: 3500
+      })
+    }
+    </script>
 </body>
 
 </html>

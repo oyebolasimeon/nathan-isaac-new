@@ -33,7 +33,7 @@
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Pocket Without Holes</h4>
-                            <p class="text-uppercase m-0">Available</p>
+                            <p class="text-uppercase m-0"> <a href="https://selar.co/pwh-ebook" target="_blank" class="btn btn-primary"> Purchase</a></p>
                         </div>
                     </div>
                 </div>
