@@ -26,7 +26,7 @@
                 <h5 class="fw-bold text-primary text-uppercase">Latest Blog</h5>
                 <h1 class="mb-0">Read Articles from Our Post</h1>
             </div>
-            <div class="row g-5">
+            <!-- <div class="row g-5">
                 <div class="col-lg-3 wow slideInUp" data-wow-delay="0.3s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
@@ -95,7 +95,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 

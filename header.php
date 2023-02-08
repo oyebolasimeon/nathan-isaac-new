@@ -106,7 +106,7 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Resources</a>
                         <div class="dropdown-menu m-0">
-                            <a href="#" class="dropdown-item">Books</a>
+                            <a href="book.php" class="dropdown-item">Books</a>
                             <a href="#" class="dropdown-item">Podcasts</a>
                             <a href="./training.php" class="dropdown-item">Trainings</a>
                             <a href="#" class="dropdown-item">Seminars</a>
