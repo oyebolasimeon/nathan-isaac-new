@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Nathan Isaac -  The Nathan Isaac</title>
+    <title>Nathan Isaac - The Nathan Isaac</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -24,13 +24,65 @@
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/animate/animate.min.css" rel="stylesheet">
 
-    <!-- Customized Bootstrap Stylesheet #FFC448--> 
+    <!-- Customized Bootstrap Stylesheet #FFC448-->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 
     <script src="https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js"></script>
+
+
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+    <script>
+        function payWithPaystack() {
+            const amount = document.getElementById("recipient-amount").value;
+            const copies = document.getElementById("recipient-copies").value;
+            const product = document.getElementById("product-name").value;
+            const owner = document.getElementById("recipient-name").value;
+            const price = parseInt(amount) * parseInt(copies)
+            var handler = PaystackPop.setup({
+                key: 'pk_live_0059d8157de895ca7f412a8faf6cdb2bcd707e7d',
+                email: document.getElementById("recipient-email").value,
+                amount: price * 100,
+                subaccount: 'ACCT_dr9rau7744zrpib',
+                metadata: {
+                    custom_fields: [{
+                            display_name: product,
+                            variable_name: `${owner} https://nathanisaac.org`,
+                            value: product
+                        }
+                    ]
+                },
+                callback: function(response) {
+                    alert('Transaction Successful, confirm receipt in your mail ');
+                },
+                onClose: function() {
+                    alert('Transaction cancelled');
+                }
+            });
+            handler.openIframe();
+        }
+    </script>
+    <!-- Modal style -->
+    <!-- <style>
+    .modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-dialog {
+  margin: 0;
+}
+</style> -->
 </head>
 
 <body>
@@ -129,6 +181,6 @@
                 <!-- <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton> -->
                 <!-- <a href="https://wa.link/mmnqjl" class="btn btn-primary py-2 px-4 ms-3">Coaching Call</a> -->
                 <a href="https://superpeer.com/nathanisaac/-/business-growth-coaching" class="btn btn-primary py-2 px-4 ms-3">Coaching Call</a>
-                
+
             </div>
         </nav>
