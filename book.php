@@ -67,7 +67,7 @@
                                 </div>
                                 <div class="form-group">
                                     <!-- <label for="recipient-name" class="col-form-label">Amount:</label> -->
-                                    <input type="number" class="form-control" id="recipient-amount" value="300" hidden readonly>
+                                    <input type="number" class="form-control" id="recipient-amount" value="3200" hidden readonly>
                                     <input type="number" class="form-control" id="product-name" value="Pocket Without Holes Ebook" hidden readonly>
                                 </div>
                             </form>
